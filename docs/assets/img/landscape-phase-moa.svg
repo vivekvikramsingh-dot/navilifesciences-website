@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" font-family="Inter, -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif">
+<rect width="1200" height="900" fill="#fff"/>
+<rect width="1200" height="112" fill="#0D2746"/>
+<rect y="112" width="1200" height="4" fill="#D4912B"/>
+<text x="40" y="48" font-size="15" font-weight="700" letter-spacing="3" fill="#7FD3D9">COMPETITIVE LANDSCAPE</text>
+<text x="40" y="88" font-family="Georgia, Times New Roman, serif" font-size="33" font-weight="700" fill="#fff">Solid Tumours: Phase × Mechanism of Action</text>
+<rect x="1030" y="40" width="130" height="32" rx="16" fill="none" stroke="#ffffff" stroke-opacity=".45"/>
+<text x="1095" y="61" font-size="14" fill="#fff" text-anchor="middle">Illustrative</text>
+<polygon points="302,140 456,140 470,162 456,184 302,184 316,162" fill="#E3ECF5"/>
+<text x="393" y="168" font-size="16" font-weight="600" text-anchor="middle" fill="#0D2746">Preclinical</text>
+<polygon points="474,140 628,140 642,162 628,184 474,184 488,162" fill="#C5D6EA"/>
+<text x="565" y="168" font-size="16" font-weight="600" text-anchor="middle" fill="#0D2746">Phase I</text>
+<polygon points="646,140 800,140 814,162 800,184 646,184 660,162" fill="#8FB0D6"/>
+<text x="737" y="168" font-size="16" font-weight="600" text-anchor="middle" fill="#0D2746">Phase II</text>
+<polygon points="818,140 972,140 986,162 972,184 818,184 832,162" fill="#2F6DB5"/>
+<text x="909" y="168" font-size="16" font-weight="600" text-anchor="middle" fill="#fff">Phase III</text>
+<polygon points="990,140 1144,140 1158,162 1144,184 990,184 1004,162" fill="#0D2746"/>
+<text x="1081" y="168" font-size="16" font-weight="600" text-anchor="middle" fill="#fff">Approved</text>
+<text x="40" y="168" font-size="13" font-weight="700" letter-spacing="2" fill="#5B6B7C">MECHANISM</text>
+<rect x="28" y="198" width="1144" height="70" rx="6" fill="#F3F6F9"/>
+<circle cx="46" cy="224" r="6" fill="#0D2746"/>
+<text x="60" y="230" font-size="17" font-weight="700" fill="#0D2746">PD-1 / PD-L1 inhibitor</text>
+<text x="60" y="252" font-size="14" fill="#5B6B7C">Monoclonal Ab</text>
+<circle cx="46" cy="298" r="6" fill="#2F6DB5"/>
+<text x="60" y="304" font-size="17" font-weight="700" fill="#0D2746">CD3 × TAA T-cell engager</text>
+<text x="60" y="326" font-size="14" fill="#5B6B7C">Bispecific</text>
+<rect x="28" y="346" width="1144" height="70" rx="6" fill="#F3F6F9"/>
+<circle cx="46" cy="372" r="6" fill="#0E8A93"/>
+<text x="60" y="378" font-size="17" font-weight="700" fill="#0D2746">TROP2 ADC</text>
+<text x="60" y="400" font-size="14" fill="#5B6B7C">ADC</text>
+<circle cx="46" cy="446" r="6" fill="#0E8A93"/>
+<text x="60" y="452" font-size="17" font-weight="700" fill="#0D2746">HER2 ADC</text>
+<text x="60" y="474" font-size="14" fill="#5B6B7C">ADC</text>
+<rect x="28" y="494" width="1144" height="70" rx="6" fill="#F3F6F9"/>
+<circle cx="46" cy="520" r="6" fill="#0E8A93"/>
+<text x="60" y="526" font-size="17" font-weight="700" fill="#0D2746">Target X ADC</text>
+<text x="60" y="548" font-size="14" fill="#5B6B7C">ADC</text>
+<circle cx="46" cy="594" r="6" fill="#7A8CA3"/>
+<text x="60" y="600" font-size="17" font-weight="700" fill="#0D2746">KRAS G12C / pan-KRAS</text>
+<text x="60" y="622" font-size="14" fill="#5B6B7C">Small molecule</text>
+<rect x="28" y="642" width="1144" height="70" rx="6" fill="#F3F6F9"/>
+<circle cx="46" cy="668" r="6" fill="#7B5EA7"/>
+<text x="60" y="674" font-size="17" font-weight="700" fill="#0D2746">Solid-tumour CAR-T / TCR-T</text>
+<text x="60" y="696" font-size="14" fill="#5B6B7C">Cell therapy</text>
+<line x1="472" y1="196" x2="472" y2="714" stroke="#DCE3EA" stroke-dasharray="3 5"/>
+<line x1="644" y1="196" x2="644" y2="714" stroke="#DCE3EA" stroke-dasharray="3 5"/>
+<line x1="816" y1="196" x2="816" y2="714" stroke="#DCE3EA" stroke-dasharray="3 5"/>
+<line x1="988" y1="196" x2="988" y2="714" stroke="#DCE3EA" stroke-dasharray="3 5"/>
+<circle cx="386" cy="233" r="20.7" fill="#0D2746" fill-opacity=".92"/>
+<text x="386" y="238.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<circle cx="558" cy="233" r="23.8" fill="#0D2746" fill-opacity=".92"/>
+<text x="558" y="238.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">9</text>
+<circle cx="730" cy="233" r="28.0" fill="#0D2746" fill-opacity=".92"/>
+<text x="730" y="238.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">14</text>
+<circle cx="902" cy="233" r="30.8" fill="#0D2746" fill-opacity=".92"/>
+<text x="902" y="238.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">18</text>
+<circle cx="1074" cy="233" r="26.4" fill="#0D2746" fill-opacity=".92"/>
+<text x="1074" y="238.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">12</text>
+<circle cx="386" cy="307" r="33.3" fill="#2F6DB5" fill-opacity=".92"/>
+<text x="386" y="312.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">22</text>
+<circle cx="558" cy="307" r="30.1" fill="#2F6DB5" fill-opacity=".92"/>
+<text x="558" y="312.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">17</text>
+<circle cx="730" cy="307" r="23.8" fill="#2F6DB5" fill-opacity=".92"/>
+<text x="730" y="312.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">9</text>
+<circle cx="902" cy="307" r="16.7" fill="#2F6DB5" fill-opacity=".92"/>
+<text x="902" y="311.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<circle cx="1074" cy="307" r="14.9" fill="#2F6DB5" fill-opacity=".92"/>
+<text x="1074" y="311.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<circle cx="386" cy="381" r="22.8" fill="#0E8A93" fill-opacity=".92"/>
+<text x="386" y="386.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">8</text>
+<circle cx="558" cy="381" r="21.8" fill="#0E8A93" fill-opacity=".92"/>
+<text x="558" y="386.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<circle cx="730" cy="381" r="20.7" fill="#0E8A93" fill-opacity=".92"/>
+<text x="730" y="386.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<circle cx="902" cy="381" r="18.2" fill="#0E8A93" fill-opacity=".92"/>
+<text x="902" y="386.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<circle cx="1074" cy="381" r="14.9" fill="#0E8A93" fill-opacity=".92"/>
+<text x="1074" y="385.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<circle cx="386" cy="455" r="24.7" fill="#0E8A93" fill-opacity=".92"/>
+<text x="386" y="460.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">10</text>
+<circle cx="558" cy="455" r="22.8" fill="#0E8A93" fill-opacity=".92"/>
+<text x="558" y="460.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">8</text>
+<circle cx="730" cy="455" r="19.5" fill="#0E8A93" fill-opacity=".92"/>
+<text x="730" y="460.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<circle cx="902" cy="455" r="18.2" fill="#0E8A93" fill-opacity=".92"/>
+<text x="902" y="460.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<circle cx="1074" cy="455" r="16.7" fill="#0E8A93" fill-opacity=".92"/>
+<text x="1074" y="459.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<circle cx="386" cy="529" r="23.8" fill="#0E8A93" fill-opacity=".92"/>
+<text x="386" y="534.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">9</text>
+<circle cx="558" cy="529" r="20.7" fill="#0E8A93" fill-opacity=".92"/>
+<text x="558" y="534.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<circle cx="730" cy="529" r="16.7" fill="#0E8A93" fill-opacity=".92"/>
+<text x="730" y="533.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<circle cx="902" cy="529" r="29" fill="#FBF3E6" stroke="#D4912B" stroke-width="2.5" stroke-dasharray="6 5"/>
+<text x="902" y="534" font-size="14" font-weight="700" letter-spacing="1.5" fill="#D4912B" text-anchor="middle">GAP</text>
+<text x="1074" y="534" font-size="16" fill="#B8C4D0" text-anchor="middle">–</text>
+<circle cx="386" cy="603" r="29.4" fill="#7A8CA3" fill-opacity=".92"/>
+<text x="386" y="608.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">16</text>
+<circle cx="558" cy="603" r="26.4" fill="#7A8CA3" fill-opacity=".92"/>
+<text x="558" y="608.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">12</text>
+<circle cx="730" cy="603" r="21.8" fill="#7A8CA3" fill-opacity=".92"/>
+<text x="730" y="608.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">7</text>
+<circle cx="902" cy="603" r="18.2" fill="#7A8CA3" fill-opacity=".92"/>
+<text x="902" y="608.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<circle cx="1074" cy="603" r="14.9" fill="#7A8CA3" fill-opacity=".92"/>
+<text x="1074" y="607.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<circle cx="386" cy="677" r="31.4" fill="#7B5EA7" fill-opacity=".92"/>
+<text x="386" y="682.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">19</text>
+<circle cx="558" cy="677" r="25.6" fill="#7B5EA7" fill-opacity=".92"/>
+<text x="558" y="682.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">11</text>
+<circle cx="730" cy="677" r="16.7" fill="#7B5EA7" fill-opacity=".92"/>
+<text x="730" y="681.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<circle cx="902" cy="677" r="12.6" fill="#7B5EA7" fill-opacity=".92"/>
+<text x="902" y="681.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<circle cx="1074" cy="677" r="12.6" fill="#7B5EA7" fill-opacity=".92"/>
+<text x="1074" y="681.5" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<line x1="28" y1="736" x2="1172" y2="736" stroke="#DCE3EA"/>
+<text x="40" y="772" font-size="13" font-weight="700" letter-spacing="2" fill="#5B6B7C">MODALITY</text>
+<circle cx="46" cy="798" r="6" fill="#0D2746"/>
+<text x="58" y="803" font-size="15" fill="#1B2A3A">Monoclonal Ab</text>
+<circle cx="196" cy="798" r="6" fill="#2F6DB5"/>
+<text x="208" y="803" font-size="15" fill="#1B2A3A">Bispecific</text>
+<circle cx="318" cy="798" r="6" fill="#0E8A93"/>
+<text x="330" y="803" font-size="15" fill="#1B2A3A">ADC</text>
+<circle cx="390" cy="798" r="6" fill="#7A8CA3"/>
+<text x="402" y="803" font-size="15" fill="#1B2A3A">Small molecule</text>
+<circle cx="546" cy="798" r="6" fill="#7B5EA7"/>
+<text x="558" y="803" font-size="15" fill="#1B2A3A">Cell therapy</text>
+<text x="40" y="860" font-size="15" fill="#1B2A3A">Bubble size = number of assets</text>
+<circle cx="300" cy="855" r="12.6" fill="none" stroke="#5B6B7C" stroke-width="1.5"/>
+<circle cx="340" cy="855" r="19.5" fill="none" stroke="#5B6B7C" stroke-width="1.5"/>
+<circle cx="392" cy="855" r="28.7" fill="none" stroke="#5B6B7C" stroke-width="1.5"/>
+<path d="M 931 539 C 1012 589, 1012 696, 972 758" fill="none" stroke="#D4912B" stroke-width="2"/>
+<rect x="770" y="758" width="402" height="124" rx="8" fill="#FBF3E6"/>
+<rect x="770" y="758" width="6" height="124" rx="3" fill="#D4912B"/>
+<text x="796" y="788" font-size="13" font-weight="700" letter-spacing="2" fill="#D4912B">SO WHAT</text>
+<text x="796" y="820" font-size="17" font-weight="700" fill="#0D2746">No Target X ADC in Phase III yet:</text>
+<text x="796" y="846" font-size="16" fill="#1B2A3A">a first-mover window to in-license</text>
+<text x="796" y="868" font-size="16" fill="#1B2A3A">a late Phase II asset.</text>
+</svg>

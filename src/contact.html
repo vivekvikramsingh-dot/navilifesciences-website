@@ -1,0 +1,60 @@
+<!--meta {"title": "Contact | Navi Lifesciences Advisory", "desc": "Contact Navi Lifesciences Advisory in Masdar City, Abu Dhabi. Email vivek.singh@navilifesciences.com or call +971 52 107 9931.", "nav": "contact"} -->
+<section class="hero sm">
+  {{ORBITS}}
+  <div class="wrap" style="position:relative">
+    <div class="crumbs"><a href="index.html">Home</a> &nbsp;/&nbsp; Contact</div>
+    <span class="eyebrow">Contact</span>
+    <h1>Let's Navigate <em>Your Next Move</em></h1>
+    <p class="lead">Share the decision in front of you, whether it is a landscape, a deal, a launch, a trial portfolio or an AI pilot. Dr. Singh will reply personally within one business day.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap split contact" style="align-items:start">
+    <div class="card top reveal" style="padding:40px">
+      <h2 style="font-size:1.7rem">Send a Message</h2>
+      <p style="color:var(--muted)">All enquiries are treated in confidence.</p>
+      <form id="contact-form" action="https://formsubmit.co/ajax/{{EMAIL}}" method="POST">
+        <input type="hidden" name="_subject" value="New enquiry from navilifesciences.com">
+        <input type="hidden" name="_template" value="table">
+        <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <div class="row">
+          <div><label for="name">Full name *</label><input id="name" name="name" required autocomplete="name"></div>
+          <div><label for="company">Organisation</label><input id="company" name="organisation" autocomplete="organization"></div>
+        </div>
+        <div class="row">
+          <div><label for="email">Work email *</label><input id="email" name="email" type="email" required autocomplete="email"></div>
+          <div><label for="phone">Phone</label><input id="phone" name="phone" type="tel" autocomplete="tel"></div>
+        </div>
+        <label for="topic">Area of interest</label>
+        <select id="topic" name="area_of_interest">
+          <option>Competitive Intelligence &amp; BD Advisory</option>
+          <option>Clinical Trials Intelligence Platform</option>
+          <option>AI &times; Life Sciences Partnership</option>
+          <option>Fractional Strategy Leadership</option>
+          <option>Workshop / Strategy Sprint</option>
+          <option>Other</option>
+        </select>
+        <label for="message">How can we help? *</label>
+        <textarea id="message" name="message" required></textarea>
+        <button class="btn" type="submit">Send message</button>
+        <div id="form-msg" class="form-msg" role="status" aria-live="polite"></div>
+      </form>
+    </div>
+    <div class="reveal">
+      <span class="eyebrow">Direct Contact</span>
+      <hr class="rule">
+      <ul class="contact-list">
+        <li><span class="ic">{{ICON_MAIL}}</span><div><small>Email</small><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></div></li>
+        <li><span class="ic">{{ICON_PHONE}}</span><div><small>Phone</small><a href="tel:{{TEL}}">{{PHONE}}</a></div></li>
+        <li><span class="ic">{{ICON_WA}}</span><div><small>WhatsApp</small><a href="https://wa.me/971521079931" target="_blank" rel="noopener">Message on WhatsApp</a></div></li>
+        <li><span class="ic">{{ICON_PIN}}</span><div><small>Office</small><span class="v">FD, First Floor, Incubator Building<br>Masdar City, Abu Dhabi, UAE</span></div></li>
+      </ul>
+      <div class="card navy mt2">
+        <h3>Navi Lifesciences Advisory Limited</h3>
+        <p>Licence MC 14498 &middot; Masdar City Free Zone</p>
+        <p class="ftag" style="margin:0">Where Science Meets Strategy,<br>Where Innovation Finds Its Market.</p>
+      </div>
+    </div>
+  </div>
+</section>
